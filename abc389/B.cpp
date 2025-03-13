@@ -1,8 +1,4 @@
-// 夢ならばどれほどよかったでしょう
-// 未だにあなたのことを夢にみる
-// 忘れた物を取りに帰るように
-// 古びた思い出の埃を払う 
-# include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std ;
 
 # define ll long long
